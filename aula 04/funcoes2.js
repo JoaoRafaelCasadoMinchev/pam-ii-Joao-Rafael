@@ -76,7 +76,7 @@ console.log(TesteImparPar(64))
 console.log(TesteImparPar(1500))
 */
 
-//Exemplo 05 (Fala do Professor: Se pequeno melhor ainda!!)
+//Exemplo 05 (Fala do Professor: Se o código for pequeno melhor ainda!!)
 // (Tirar else e optimizando o código)
 const TesteImparPar = (n) => {
     let calculoTeste = n % 2
