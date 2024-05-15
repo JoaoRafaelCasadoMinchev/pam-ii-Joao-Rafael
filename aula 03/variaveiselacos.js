@@ -1,3 +1,4 @@
+//Typeof
 let n = 2
 let t = "oi"
 
